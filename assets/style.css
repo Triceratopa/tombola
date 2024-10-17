@@ -1,0 +1,47 @@
+.colore{
+    background-color: aqua;
+    border: 1px solid;
+}
+#container{
+   
+}
+td,tr{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+    #gira{
+        margin-top: 2em;
+        background-color: #0095ff;
+        border: 1px solid transparent;
+        border-radius: 3px;
+        box-shadow: rgba(255, 255, 255, .4) 0 1px 0 0 inset;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-block;
+        font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.15385;
+        
+        outline: none;
+        padding: 8px .8em;
+        position: relative;
+        text-align: center;
+        text-decoration: none;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        vertical-align: baseline;
+        white-space: nowrap;
+        align-items: center;
+    }
+    h1{
+        
+            font-family: "Modak", system-ui;
+            font-weight: 400;
+            font-style: normal;
+        
+    }
+    
