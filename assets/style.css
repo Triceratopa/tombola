@@ -2,9 +2,7 @@
     background-color: aqua;
     border: 1px solid;
 }
-#container{
-   
-}
+
 td,tr{
     box-sizing: border-box;
     border: 1px solid black;
